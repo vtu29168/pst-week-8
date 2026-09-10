@@ -1,0 +1,17 @@
+Compile Message
+Solution.java:1: error: class, interface, or enum expected
+if (obj instanceof Student) {
+^
+Solution.java:3: error: class, interface, or enum expected
+        } else if (obj instanceof Rockstar) {
+        ^
+Solution.java:5: error: class, interface, or enum expected
+            } else if (obj instanceof Hacker) {
+            ^
+Solution.java:7: error: class, interface, or enum expected
+                }
+                ^
+4 errors
+
+Exit Status
+255
